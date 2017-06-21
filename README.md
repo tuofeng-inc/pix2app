@@ -3,3 +3,5 @@
 - 输入图片基于腾讯WeUI design设计规范，输出结果可以是H5页面/微信小程序/或手机App。
 - 前端工程师可以解放一部分用于初级布局的工作时间，更专注于业务流程，后台交互部分。
 - 仍有大量问题等待解决中......
+
+![](https://raw.githubusercontent.com/pix2app/pix2app/master/demo.gif)
