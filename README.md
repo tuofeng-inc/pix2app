@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/pix2app/pix2app/master/demo.gif)
 
-# 用法
+## 用法
 
 	$ cd pix2app
   
