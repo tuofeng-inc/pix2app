@@ -5,3 +5,20 @@
 - 仍有大量问题等待解决中......
 
 ![](https://raw.githubusercontent.com/pix2app/pix2app/master/demo.gif)
+
+# 用法
+
+	$ cd pix2app
+  
+下载训练数据
+
+	$ wget https://s3-ap-northeast-1.amazonaws.com/pix2app/train_data.tar.gz
+	$ tar -xzf train_data.tar.gz
+  
+开始训练
+
+	$ python pix2app.py
+  
+测试
+
+	$ python test.py imgs/0.png
